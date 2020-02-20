@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ taglib uri="/WEB-INF/struts-form.tld" prefix="form" %>
+<%@ taglib uri="http://jakarta.apache.org/struts/tags-html-1.0.2" prefix="form" %>
 <html>
 <head>
 <meta charset="UTF-8">
